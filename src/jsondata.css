@@ -1,0 +1,25 @@
+.totalcontainerr{
+    margin-top: 18rem;
+    margin-top: 30rem;
+}
+.table-tablestriped{
+    display: flex;
+    align-items: center;
+}
+.thead{
+    gap: 20rem;
+}
+
+
+
+
+
+
+.field {
+    margin-bottom: 10px; 
+  }
+  
+  
+  /* .table-tablestriped {
+    
+  } */

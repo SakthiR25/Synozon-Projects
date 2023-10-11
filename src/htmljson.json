@@ -1,0 +1,55 @@
+[
+  {
+    "DESCRIPTION": "IPhone",
+    "QTY": "1",
+    "UNITPRICE": "1000",
+    "TOTAL": "1000"
+  },
+  {
+    "DESCRIPTION": "Samsung",
+    "QTY": "1",
+    "UNITPRICE": "900",
+    "TOTAL": "900"
+  },
+  {
+    "DESCRIPTION": "Oppo",
+    "QTY": "1",
+    "UNITPRICE": "700",
+    "TOTAL": "700"
+  },
+  {
+    "DESCRIPTION": "Remarks / Payment Instructions:",
+    "QTY": "SUBTOTAL",
+    "UNITPRICE": "2600.00"
+  },
+  {
+    "DESCRIPTION": "DISCOUNT",
+    "QTY": "10.00"
+  },
+  {
+    "DESCRIPTION": "SUBTOTAL LESS"
+  },
+  {
+    "DESCRIPTION": "DISCOUNT",
+    "QTY": "2600.00"
+  },
+  {
+    "DESCRIPTION": "TAX RATE",
+    "QTY": "10.00%"
+  },
+  {
+    "DESCRIPTION": "TOTAL TAX",
+    "QTY": "150.00"
+  },
+  {
+    "DESCRIPTION": "SHIPPING/HANDLING",
+    "QTY": "100.00"
+  },
+  {
+    "DESCRIPTION": "Balance Due",
+    "QTY": "1900"
+  },
+  {
+    "DESCRIPTION": ""
+  }
+]
